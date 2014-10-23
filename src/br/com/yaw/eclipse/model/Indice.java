@@ -1,5 +1,8 @@
 package br.com.yaw.eclipse.model;
 
+//classe modificada pelo Github.
+
+
 public class Indice {
 String codindice;
 
